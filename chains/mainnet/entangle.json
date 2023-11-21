@@ -1,0 +1,26 @@
+{
+    "chain_name": "composable",
+    "coingecko": "composable",
+    "api": [
+        "https://composable-api.polkachu.com"
+    ],
+    "rpc": [
+        "https://composable-rpc.polkachu.com/"
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "pica",
+    "logo": "/logos/osmosis.jpg",
+    "theme_color": "#812cd6",
+    "assets": [
+        {
+            "base": "upica",
+            "symbol": "PICA",
+            "exponent": "6",
+            "coingecko_id": "pica",
+            "logo": "/logos/osmosis.jpg"
+        }
+    ]
+}
